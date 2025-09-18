@@ -71,9 +71,17 @@ Cafe-Management-System/
    ```
 
 ---
-## screenshots 
+### Screenshots
+
 **Menu View:**
-![Menu View](C:\Users\Admin\Pictures\Screenshots/displaymenu.png)
+![Menu View](screenshots/menu_view.png)
+
+**Placing an Order:**
+![Place Order](screenshots/place_order.png)
+
+**Bill Generation:**
+![Bill](screenshots/bill.png)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
