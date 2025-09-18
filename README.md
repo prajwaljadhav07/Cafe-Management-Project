@@ -1,79 +1,84 @@
-☕ Cafe Management System
+# ☕ Cafe Management System
 
-A mini-project built in C language using Data Structures and File Handling concepts.
-This project simulates a simple cafe system with Admin and Customer modules.
+A mini-project built in **C language** using **Data Structures and File Handling** concepts.
+This project simulates a simple cafe system with **Admin** and **Customer** modules.
 
-🚀 Features
-🔑 Admin Module
+---
 
-➕ Add new menu items
+## 🚀 Features
 
-➖ Remove existing menu items
+### 🔑 Admin Module
 
-📜 Display full menu
+* ➕ Add new menu items
+* ➖ Remove existing menu items
+* 📜 Display full menu
+* 📝 View customer feedback
+* 💰 Check daily expenses
 
-📝 View customer feedback
+### 👤 Customer Module
 
-💰 Check daily expenses
+* 📖 View menu
+* 🛒 Place and cancel orders
+* 🧾 Generate and view bill
+* ✍️ Provide feedback
 
-👤 Customer Module
+---
 
-📖 View menu
+## 🛠️ Tech Stack
 
-🛒 Place and cancel orders
+* **Language:** C
+* **Concepts Used:** Linked List, File Handling, Dynamic Memory Allocation
+* **Files for Persistence:**
 
-🧾 Generate and view bill
+  * `Menu.txt` → Stores menu items
+  * `Feedback.txt` → Stores customer feedback
+  * `Expense.txt` → Stores daily expenses
 
-✍️ Provide feedback
+---
 
-🛠️ Tech Stack
+## 📂 Project Structure
 
-Language: C
-
-Concepts Used: Linked List, File Handling, Dynamic Memory Allocation
-
-Files for Persistence:
-
-Menu.txt → Stores menu items
-
-Feedback.txt → Stores customer feedback
-
-Expense.txt → Stores daily expenses
-
-📂 Project Structure
+```
 Cafe-Management-System/
 │── cafe.c          # Main C source code  
 │── Menu.txt        # Menu items storage  
 │── Feedback.txt    # Customer feedback storage  
 │── Expense.txt     # Expense records  
 │── README.md       # Project documentation  
+```
 
-▶️ How to Run
+---
 
-Clone the repository
+## ▶️ How to Run
 
-git clone https://github.com/your-username/Cafe-Management-System.git
-cd Cafe-Management-System
+1. Clone the repository
 
+   ```bash
+   git clone https://github.com/your-username/Cafe-Management-System.git
+   cd Cafe-Management-System
+   ```
 
-Compile the project
+2. Compile the project
 
-gcc cafe.c -o cafe
+   ```bash
+   gcc cafe.c -o cafe
+   ```
 
+3. Run the program
 
-Run the program
+   ```bash
+   ./cafe
+   ```
 
-./cafe
+---
 
-
-
-Add some console screenshots here for better presentation.
-
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a PR.
 
-📜 License
+---
 
-This project is licensed under the MIT License – you’re free to use, modify, and distribute it.
+## 📜 License
+
+This project is licensed under the **MIT License** – you’re free to use, modify, and distribute it.
