@@ -1,0 +1,7 @@
+
+1  pizaa  50.00 
+2  cofee  80.00 
+3  burger  100.00 
+4  cake  150.00 
+2  bread  30.00 
+3  rice  60.00 
