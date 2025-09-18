@@ -71,7 +71,9 @@ Cafe-Management-System/
    ```
 
 ---
-
+## screenshots 
+**Menu View:**
+![Menu View](C:\Users\Admin\Pictures\Screenshots/displaymenu.png)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
