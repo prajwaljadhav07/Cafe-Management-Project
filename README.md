@@ -80,7 +80,7 @@ Cafe-Management-System/
 ![Place Order](screenshots/place_order.png)
 
 **Bill Generation:**
-![Bill](screenshots/bill.png)
+![Bill]([screenshots/bill.png](https://github.com/prajwaljadhav07/Cafe-Management-Project/blob/b7fbfcd607b1b9139ad3f4bd86b0bdbfb3d2341b/screenshots/displaymenu.png))
 
 ## 🤝 Contributing
 
