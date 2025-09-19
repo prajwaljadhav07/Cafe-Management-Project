@@ -77,7 +77,7 @@ Cafe-Management-System/
 ![Menu View](https://github.com/prajwaljadhav07/Cafe-Management-Project/blob/b7fbfcd607b1b9139ad3f4bd86b0bdbfb3d2341b/screenshots/displaymenu.png)
 
 **Placing an Order:**
-![Place Order](screenshots/place_order.png)
+![Place Order]([screenshots/place_order.png](https://github.com/prajwaljadhav07/Cafe-Management-Project/blob/5a9fa13fc6e39af2831cfda6dd79e4210f64fb78/screenshots/placeorder.png))
 
 **Bill Generation:**
 ![Bill]([screenshots/bill.png](https://github.com/prajwaljadhav07/Cafe-Management-Project/blob/b7fbfcd607b1b9139ad3f4bd86b0bdbfb3d2341b/screenshots/displaymenu.png))
